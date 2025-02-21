@@ -1,0 +1,3 @@
+C:\Users\Jacob\source\repos\GrocerTrackerNew\x64\Debug\GrocerTrackerNew.exe
+C:\Users\Jacob\source\repos\GrocerTrackerNew\x64\Debug\GrocerTrackerNew.vcxproj.CopyComplete
+C:\Users\Jacob\source\repos\GrocerTrackerNew\x64\Debug\sqlite3.dll
