@@ -16,3 +16,16 @@ Through this project, I strengthened my understanding of OpenGL and graphics pro
 ### **Link to the Enhancement One**
 - [Enhacement One Full File](https://github.com/jrsuich/CS-499-ePortfolio/tree/0b1b5a7c287cd9f85c2a1dc433ba53f1d7d1e5d8/Enhancement%20One%20Software%20Design%20and%20Engineering)
 - [Enhacement One Main Code](https://github.com/jrsuich/CS-499-ePortfolio/blob/7e235051bb75529cb3cabef8967ef46f721a9f32/Enhancement%20One%20Software%20Design%20and%20Engineering/8-2_Assignment%20Post%20Enhancement/Source/MainCode.cpp)
+
+## **Enhancement Two: Algorithms and Data Structures**
+The TaskService is a Java-based task management system that performs CRUD operations while ensuring input validation. Originally developed in CS 320: Software Testing, Automation, and Quality Assurance around June 2024, it used a HashMap for storing tasks and included unit tests for verification. 
+
+I selected TaskService for my ePortfolio because it highlights my skills in algorithms and data structures. To improve efficiency, I replaced HashMap with TreeMap, ensuring tasks remain sorted by taskId. I also implemented prefix-based search, allowing users to find tasks by name or description efficiently. Additionally, I refactored validation logic for better maintainability and expanded unit testing to cover search functionality and edge cases. 
+
+These enhancements significantly improved efficiency and usability. The TreeMap ensures a consistent task order, which could be leveraged for future features requiring sorted retrieval. The search function optimizes retrieval using prefix matching, and the improved validation logic enhances code maintainability. Expanded test coverage strengthens software reliability. Through this enhancement, I successfully met course outcomes related to algorithmic efficiency and best practices. The TreeMap optimizes data storage, and search functionality applies string-matching algorithms. Improved validation logic and testing align with software engineering principles. 
+
+During the enhancement process, I gained a deeper understanding of data structures and search optimization. One of the key challenges was refactoring the data structure without breaking existing functionality, requiring careful modifications to ensure all CRUD operations and test cases remained valid. Implementing efficient search also involved balancing performance with usability, particularly when handling case sensitivity and null values. Additionally, ensuring that unit tests comprehensively covered the new features reinforced the importance of edge case testing in software development. Through this project, I demonstrated skills in problem-solving, code optimization, and debugging. I also reinforced my ability to apply data structures effectively in a real-world scenario. 
+
+### **Link to the Enhancement Two**
+- [Enhacement Two Full File](https://github.com/jrsuich/CS-499-ePortfolio/tree/5d25754b4c93d1db81ff3211094663257bc2756e/Enhancement%20Two%20Algorithms%20and%20Data%20Structure)
+- [Enhacement Two Code](https://github.com/jrsuich/CS-499-ePortfolio/blob/5d25754b4c93d1db81ff3211094663257bc2756e/Enhancement%20Two%20Algorithms%20and%20Data%20Structure/taskserviceproject%20enhanced/src/taskserviceproject/TaskService.java)
