@@ -28,3 +28,19 @@ During the enhancement process, I gained a deeper understanding of data structur
 ### **Link to the Enhancement Two**
 - [Enhacement Two Full File](https://github.com/jrsuich/CS-499-ePortfolio/tree/5d25754b4c93d1db81ff3211094663257bc2756e/Enhancement%20Two%20Algorithms%20and%20Data%20Structure)
 - [Enhacement Two Code](https://github.com/jrsuich/CS-499-ePortfolio/blob/5d25754b4c93d1db81ff3211094663257bc2756e/Enhancement%20Two%20Algorithms%20and%20Data%20Structure/taskserviceproject%20enhanced/src/taskserviceproject/TaskService.java)
+
+# **Enhancement Three: Databases**
+The GrocerTracker project, originally developed in CS 210 around December 2023, is a software application that tracks grocery item frequencies. The initial implementation used a file-based system and a std::map for data storage, allowing users to read items from a file and display item frequencies. However, all data was lost when the program was restarted. Additionally, file I/O operations limited efficiency, scalability, and query performance. 
+
+This project was enhanced to demonstrate database integration and data management skills by transitioning from a file-based system to an SQLite-backed solution. By replacing the std::map and file I/O operations with a database, the program now supports persistent storage, efficient data retrieval, and dynamic data management. Implementing CRUD (Create, Read, Update, Delete) operations allowed users to interact with grocery item records more flexibly. Additionally, SQL indexing and optimized queries improved search performance, making the application more efficient and scalable. These enhancements made the program more user-friendly by eliminating redundant file operations, improving data persistence, and allowing users to modify records dynamically instead of relying on static file inputs. 
+
+The enhancements align with CS 499 course outcomes, particularly in designing and evaluating computing solutions. Optimized database queries ensure faster and more efficient data retrieval, while the integration of structured database management techniques demonstrates industry-relevant skills. The transition from a basic file-based system to a functional database-driven application highlights my ability to apply software engineering principles and database best practices. 
+
+Throughout this process, I strengthened my understanding of database schema design, query optimization, and structured data management. A key challenge was transitioning from flat file storage to database-driven persistence, requiring a redesign of the data handling logic. Additionally, ensuring case-insensitive searches was a challenge, as SQLite treats "Apples" and "apples" as different entries. This was resolved by implementing data normalization. Another key improvement was error handling, where I incorporated structured validation mechanisms to prevent invalid inputs and ensure database connections were properly managed. 
+
+The enhancements aligned well with the CS 499 course outcomes, covering computing solutions, database management, and software engineering. However, further refinements could be made in security considerations, such as implementing user authentication or encryption for sensitive data. Overall, this enhancement improved the scalability, efficiency, and usability of the project, making it a valuable addition to my ePortfolio. 
+
+### **Link to the Enhancement Three**
+- [Enhacement Three Full File](https://github.com/jrsuich/CS-499-ePortfolio/tree/8d69720973cdf84b99b8a01d80bfde82b1027514/Enhancement%20Three%20Databases)
+- [Enhacement Three Code](https://github.com/jrsuich/CS-499-ePortfolio/blob/8d69720973cdf84b99b8a01d80bfde82b1027514/Enhancement%20Three%20Databases/GrocerTrackerEnhanced/GrocerTrackerApp.cpp)
+ 
