@@ -12,3 +12,6 @@ Key components that demonstrate my skills include object-oriented design with cl
 Enhancements included improving paddle-ball collision logic, refactoring the code for modularity, supporting window resizing, and balancing the game by adjusting ball speed. These updates improved the user experience and demonstrated my ability to enhance existing code effectively. 
 
 Through this project, I strengthened my understanding of OpenGL and graphics programming, enhanced my problem-solving skills, and improved code readability. A challenge like refining collision detection required iterative debugging and creative problem-solving. These experiences contributed to my growth as a developer and aligned with the course outcomes of designing effective solutions, applying software engineering principles, and showcasing creativity. 
+
+### **Link to the Enhancement**
+- [Enhacement One](https://github.com/jrsuich/CS-499-ePortfolio/tree/0b1b5a7c287cd9f85c2a1dc433ba53f1d7d1e5d8/Enhancement%20One%20Software%20Design%20and%20Engineering)
