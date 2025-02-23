@@ -7,11 +7,11 @@ One of the most significant aspects of my learning experience has been collabora
 
 The ePortfolio artifacts I selected demonstrate my expertise across three core areas: 
 
-Software Engineering & Design: The Brick Game project showcases my ability to build interactive graphical applications, optimize collision detection, and refactor code for modularity. 
+1. Software Engineering & Design: The Brick Game project showcases my ability to build interactive graphical applications, optimize collision detection, and refactor code for modularity. 
 
-Algorithms & Data Structures: The TaskService project highlights my ability to implement efficient data structures, such as TreeMap, and design effective search algorithms. 
+2. Algorithms & Data Structures: The TaskService project highlights my ability to implement efficient data structures, such as TreeMap, and design effective search algorithms. 
 
-Databases: The GrocerTracker project demonstrates my proficiency in database integration, including migrating from a file-based system to an SQLite-backed solution with optimized queries. 
+3. Databases: The GrocerTracker project demonstrates my proficiency in database integration, including migrating from a file-based system to an SQLite-backed solution with optimized queries. 
 
 Beyond technical expertise, I have also gained a security mindset, ensuring that my applications follow best practices for input validation, database integrity, and error handling. Throughout the program, I have learned to anticipate potential vulnerabilities and design solutions that prioritize security in software architecture. 
 
