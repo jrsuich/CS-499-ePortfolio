@@ -1,5 +1,3 @@
-# **CS-499-ePortfolio**
-
 ## **Professional Self-Assessment**
 Throughout my journey in the Computer Science program, I have gained invaluable skills in software engineering, algorithms, databases, and security, which have prepared me to transition into a professional role in the industry. The process of developing my ePortfolio has allowed me to showcase my strengths in these areas, refine my technical skills, and reinforce my ability to work through real-world computing challenges. By enhancing my previous coursework artifacts, I have demonstrated problem-solving, software design, data structure optimization, and database management, which are critical abilities in the field of computer science. 
 
