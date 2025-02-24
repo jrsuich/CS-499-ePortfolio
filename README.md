@@ -33,7 +33,7 @@ Through this project, I strengthened my understanding of OpenGL and graphics pro
 - [ View Enhanced Brick Game Main Code](https://github.com/jrsuich/CS-499-ePortfolio/blob/7e235051bb75529cb3cabef8967ef46f721a9f32/Enhancement%20One%20Software%20Design%20and%20Engineering/8-2_Assignment%20Post%20Enhancement/Source/MainCode.cpp)
 
 ## **Enhancement Two: Algorithms and Data Structures**
-The TaskService is a Java-based task management system that performs CRUD operations while ensuring input validation. Originally developed in CS 320: Software Testing, Automation, and Quality Assurance around June 2024, it used a HashMap for storing tasks and included unit tests for verification. 
+The TaskService is a Java-based task management system that performs CRUD operations while ensuring input validation. Originally developed in CS 320: Software Testing, Automation, and Quality Assurance in June 2024, it used a HashMap for storing tasks and included unit tests for verification. 
 
 I selected TaskService for my ePortfolio because it highlights my skills in algorithms and data structures. To improve efficiency, I replaced HashMap with TreeMap, ensuring tasks remain sorted by taskId. I also implemented prefix-based search, allowing users to find tasks by name or description efficiently. Additionally, I refactored validation logic for better maintainability and expanded unit testing to cover search functionality and edge cases. 
 
@@ -46,7 +46,7 @@ During the enhancement process, I gained a deeper understanding of data structur
 - [View Enhanced TaskService Code](https://github.com/jrsuich/CS-499-ePortfolio/blob/5d25754b4c93d1db81ff3211094663257bc2756e/Enhancement%20Two%20Algorithms%20and%20Data%20Structure/taskserviceproject%20enhanced/src/taskserviceproject/TaskService.java)
 
 # **Enhancement Three: Databases**
-The GrocerTracker project, originally developed in CS 210 around December 2023, is a software application that tracks grocery item frequencies. The initial implementation used a file-based system and a std::map for data storage, allowing users to read items from a file and display item frequencies. However, all data was lost when the program was restarted. Additionally, file I/O operations limited efficiency, scalability, and query performance. 
+The GrocerTracker project, originally developed in CS 210 in December 2023, is a software application that tracks grocery item frequencies. The initial implementation used a file-based system and a std::map for data storage, allowing users to read items from a file and display item frequencies. However, all data was lost when the program was restarted. Additionally, file I/O operations limited efficiency, scalability, and query performance. 
 
 This project was enhanced to demonstrate database integration and data management skills by transitioning from a file-based system to an SQLite-backed solution. By replacing the std::map and file I/O operations with a database, the program now supports persistent storage, efficient data retrieval, and dynamic data management. Implementing CRUD (Create, Read, Update, Delete) operations allowed users to interact with grocery item records more flexibly. Additionally, SQL indexing and optimized queries improved search performance, making the application more efficient and scalable. These enhancements made the program more user-friendly by eliminating redundant file operations, improving data persistence, and allowing users to modify records dynamically instead of relying on static file inputs. 
 
